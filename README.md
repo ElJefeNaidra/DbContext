@@ -1,10 +1,11 @@
 # DbContext
 A lightweight MSSQL/MySQL Stored Procedure based DBContext library
 
-A small library written in C# to demonstrate my Prompt Engineering abilities using ChatGPT 4. The library was generated in one chat session. It has been checked for errors and has been used in working applications. 
+A small library written in C# enabling developers flexible CRUD implementations.
 
 Features
 - Supports both MSSQL and MYSQL
+- Uses reflection
 - Execute Stored Procedures
 - Parameter sniffing and maping
 - Mapping of model object properties to stored procedure parameters
